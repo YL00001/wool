@@ -5,9 +5,7 @@
 注：不玩实名，不玩见光没，不玩低于0.3
 
 
-## :world_map: 拉库
 
-    ql repo https://github.com/Yiov/wool.git "" "COOKIE"
 
 
 ## :loudspeaker: 小号
